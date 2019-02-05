@@ -1,1 +1,1 @@
-neural_network
+This project is a simple general neural network using signoid as activation function 
